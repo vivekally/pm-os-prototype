@@ -1,3 +1,11 @@
+# PM OS — moved
+
+> **This repo's site now redirects.** The landing page and clickable prototype
+> live together at **https://vivekally.github.io/pm-os-landing/**
+> (source: https://github.com/vivekally/pm-os-landing).
+
+---
+
 # PM OS — Landing Page + Clickable Prototype
 
 Marketing landing page and a clickable prototype for the three phases of PM OS, built from the PM OS Notion spec (June 2026).
